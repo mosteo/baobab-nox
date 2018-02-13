@@ -1,5 +1,5 @@
 # baobab-nox
-Tool to ascertain folder sizes from the command line.
+Bash tool to ascertain folder sizes from the command line.
 With human-readable output.
 With proper sorting from biggest to smallest.
 
